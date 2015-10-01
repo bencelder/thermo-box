@@ -1,0 +1,15 @@
+Simple rectangular box with moveable divider
+
+Particles don't interact except with walls
+
+When they bump into the divider, they cause it to move
+
+Should demonstrate the ideal gas law
+
+Show average T, P in each side
+
+Left hold click in one side = add particles
+
+Right hold click in one side = remove particles
+
+
